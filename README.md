@@ -19,8 +19,8 @@ I'm a passionate student who loves Computer Science, fascinated about Data Struc
 - 🔭 I’m currently working on TSA and cloud architecture 
 - 🌱 I’m currently learning about TSA, ML, DL, NLP and cloud architecture
 - 👯 I’m looking to collaborate on projects
-- ✨ I have 2 active python packages [`pytsal`](https://github.com/Krishnan/pytsal) and [`Nutshell`](https://github.com/Krishnan/Nutshell) and I'm looking for contributions.
-- 🤔 I’m looking for contributions to [`MusicBrain`](https://github.com/Krishnan/MusicBrain) and [`Flingo`](https://github.com/Krishnan/flingo) repositories. (WIP, so currently private. Ping me let's have a chat 🙂)
-- 💬 Ask me about Data Science, TSA and DSA
+- ✨ I have 2 active python packages [`Pytsal`](https://github.com/KrishnanSG/pytsal) and [`Nutshell`](https://github.com/KrishnanSG/Nutshell) and I'm looking for contributions.
+- 🤔 I’m looking for contributions to [`MusicBrain`](https://github.com/KrishnanSG/MusicBrain) and [`Flingo`](https://github.com/KrishnanSG/flingo) repositories. (WIP, so currently private. Ping me let's have a chat 🙂)
+- 💬 Ask me about Data Science, TSA, Cloud and DSA
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/krishnansg/) • [Kaggle](https://www.kaggle.com/krish525)
 - ⚡ Fun fact: I'm most productive on Fridays
