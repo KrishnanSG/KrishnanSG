@@ -1,6 +1,8 @@
 ## 👋 Hola, I'm Krishnan S G
 
-I'm a passionate student who loves Computer Science, fascinated about Data Structures and Algorithms, with core languages Python, JS,  C/C++. Currently working as Research and Development Intern at Cloudwiry.
+I'm a passionate student who loves Computer Science, fascinated about Data Structures and Algorithms, with core languages Python, C/C++. Enjoys working and exploring in the field of Data Science, Time Series Analysis, Machine Learning, Deep Learning and Cloud Computing. 
+
+Currently working as Research and Development Intern at Cloudwiry.
 
 ## Python Libraries
 
