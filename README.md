@@ -1,6 +1,6 @@
 ## 👋 Hola, I'm Krishnan S G
 
-I'm a passionate student who loves and fascinated about anything and everything under Computer Science. I love Python and Java. I enjoy working and exploring in the field of Data Science, Time Series Analysis, Machine Learning, Deep Learning and Cloud Computing. 
+I'm a passionate student who loves and fascinated about anything and everything under Computer Science. I love Python and Java. I enjoy working and exploring in the field of Data Science, Time Series Analysis, Machine Learning, Blockchain and Cloud Computing. 
 
 Currently working as Software Developer at [Cloudwiry](https://cloudwiry.com).
 
