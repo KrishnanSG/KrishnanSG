@@ -22,7 +22,7 @@ Currently working as Software Developer at [Cloudwiry](https://cloudwiry.com).
 
 
 - 🔭 I’m currently working on TSA and cloud architecture 
-- 🌱 I’m currently learning about TSA, ML, DL, NLP and cloud architecture
+- 🌱 I’m currently learning about TSA, ML, Blockchain, NLP and cloud architecture
 - 👯 I’m looking to collaborate on projects
 - ✨ I have 2 active python packages [`Pytsal`](https://github.com/KrishnanSG/pytsal) and [`Nutshell`](https://github.com/KrishnanSG/Nutshell) and I'm looking for contributions.
 - 🤔 I’m looking for contributions to [`MusicBrain`](https://github.com/KrishnanSG/MusicBrain) and [`Flingo`](https://flingo.vercel.app/) repositories. (WIP, so currently private. Ping me let's have a chat 🙂)
