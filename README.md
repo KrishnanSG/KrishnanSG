@@ -1,8 +1,14 @@
 ## 👋 Hola, I'm Krishnan S G
 
-I'm a passionate student who loves and fascinated about anything and everything under Computer Science. I love Python and Java. I enjoy working and exploring in the field of Data Science, Time Series Analysis, Machine Learning, Blockchain and Cloud Computing. 
+**Data Scientist @ [DataGenie.ai](https://datagenie.ai) | Ex-Cloudwiry**
 
-Currently working as Software Developer at [Cloudwiry](https://cloudwiry.com).
+I'm a computer science professional who loves to dive deep into time series analysis, data science, cloud and software development. With over 3 years of experience in both cloud and data science, I'm well-versed in a variety of technologies and have a wealth of industry knowledge. 
+
+I have experience in building cost-optimized cloud architectures and solutions. As a data scientist, my expertise is in Time series analysis and also excited to explore Natural Language Processing.
+
+Driven by his passion for efficiency and growth, my vision is to work for startup and be a key player in its success.
+In addition to my professional pursuits, I'm deeply passionate about table tennis, swimming and music.
+
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Python Libraries
 
