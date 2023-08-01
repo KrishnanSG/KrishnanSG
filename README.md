@@ -1,6 +1,6 @@
 ## 👋 Hola, I'm Krishnan S G
 
-**Data Scientist @ [DataGenie.ai](https://datagenie.ai) | Ex-Cloudwiry**
+**Engineering Lead @ [DataGenie.ai](https://datagenie.ai) | Ex-Cloudwiry**
 
 I'm a computer science professional who loves to dive deep into time series analysis, data science, cloud and software development. With over 3 years of experience in both cloud and data science, I'm well-versed in a variety of technologies and have a wealth of industry knowledge. 
 
