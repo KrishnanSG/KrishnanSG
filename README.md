@@ -2,7 +2,7 @@
 
 **Engineering Lead @ [DataGenie.ai](https://datagenie.ai) | Ex-Cloudwiry**
 
-I'm a computer science professional who loves to dive deep into time series analysis, data science, cloud and software development. With over 3 years of experience in both cloud and data science, I'm well-versed in a variety of technologies and have a wealth of industry knowledge. 
+I'm a computer science professional who loves to dive deep into time series analysis, data science, cloud and software development. With over 5 years of experience in both cloud and data science, I'm well-versed in a variety of technologies and have a wealth of industry knowledge. 
 
 I have experience in building cost-optimized cloud architectures and solutions. As a data scientist, my expertise is in Time series analysis and also excited to explore Natural Language Processing.
 
