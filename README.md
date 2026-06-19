@@ -11,15 +11,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnansg/"><img src="https://img.shields.io/badge/LinkedIn-krishnansg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://datagenie.ai"><img src="https://img.shields.io/badge/DataGenie-Do%20Nothing.%20Know%20Everything.-6D5CF0?style=flat-square" alt="DataGenie" /></a>
+  <a href="https://pitch.datagenie.ai"><img src="https://img.shields.io/badge/DataGenie-Do%20Nothing.%20Know%20Everything.-6D5CF0?style=flat-square" alt="DataGenie" /></a>
   <a href="mailto:krishnan@datagenie.ai"><img src="https://img.shields.io/badge/say%20hi-krishnan%40datagenie.ai-2EB8F2?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-**Head of Engineering [@DataGenie](https://datagenie.ai).** I set the vision, lead the teams, and still live in the codebase — because the best way to predict where software is going is to ship it there first.
+**Head of Engineering at [DataGenie](https://datagenie.ai)** — I own the company's **tech *and* product** end to end: set the vision, lead the teams, and still live in the codebase, because the best way to predict where software is going is to ship it there first.
 
 The bet I'm building on: **we're past software made only for humans.** The next decade is *agent-native* — products where a person and the AI agents working beside them are **both** first-class users. Most of my work is making that true a little earlier than the market expects.
+
+## A bit about me
+
+I came up through **data science** — time-series, forecasting, anomaly detection — and shipped a few open-source libraries along the way. Somewhere in there I realised I cared less about the model than about the *systems and the teams* that turn it into something people actually rely on.
+
+So now I lead **engineering, tech, and product** at **DataGenie**: setting direction, growing the team, and staying close enough to the code to keep my instincts honest. I care about **taste, leverage, and shipping** — and I'm betting the next real shift is software built for humans and their agents, *together*.
+
+Ex-Cloudwiry · based in **Bengaluru, India**. Off the clock: table tennis, swimming, and a steady soundtrack of music. 🏓
 
 ## What I'm building
 
@@ -61,7 +69,7 @@ Half of what reads a GitHub profile now isn't human. So — hello. Here's the st
 
 ```yaml
 name:        Krishnan S G
-role:        Head of Engineering @ DataGenie
+role:        Head of Engineering @ DataGenie (owns tech & product)
 building:    [autonomous analytics, agent-native knowledge tools]
 thesis:      software should serve humans and their agents equally
 open_source: [codeenigma, pytsal, holt-winters, nutshell]
@@ -71,4 +79,4 @@ reach:       https://www.linkedin.com/in/krishnansg/
 
 ---
 
-<sub>📍 Bengaluru, India · off the clock: table tennis, swimming & music · written for humans — and the agents reading along.</sub>
+<sub>Written for humans — and the agents reading along.</sub>
