@@ -48,12 +48,12 @@ Ex-Cloudwiry · based in **Bengaluru, India**. Off the clock: table tennis, swim
 
 A few things I've shipped to the community over the years — still maintained, still useful:
 
-| Project | What it is | |
-| :-- | :-- | --: |
-| **[CodeEnigma](https://github.com/KrishnanSG/codeenigma)** | Lightweight Python code obfuscation — an open, practical alternative to PyArmor | ★ 52 |
-| **[Holt-Winters](https://github.com/KrishnanSG/holt-winters)** | A deep dive into Holt-Winters forecasting + time-series anomaly detection, math and all | ★ 47 |
-| **[Pytsal](https://github.com/KrishnanSG/pytsal)** | Low-code framework for time-series analysis, forecasting & AutoTS | ★ 39 |
-| **[Nutshell](https://github.com/KrishnanSG/Nutshell)** | Unsupervised text summarization & retrieval, powered by NLP | ★ 15 |
+| Project | What it is | Stars | Downloads |
+| :-- | :-- | :-- | :-- |
+| **[CodeEnigma](https://github.com/KrishnanSG/codeenigma)** | Lightweight Python code obfuscation — an open, practical alternative to PyArmor | ![](https://img.shields.io/github/stars/KrishnanSG/codeenigma?style=flat-square&label=%E2%98%85&color=6D5CF0&labelColor=2b2f36) | ![](https://img.shields.io/pepy/dt/codeenigma?style=flat-square&label=%E2%86%93&color=2EB8F2&labelColor=2b2f36) |
+| **[Holt-Winters](https://github.com/KrishnanSG/holt-winters)** | A deep dive into Holt-Winters forecasting + time-series anomaly detection, math and all | ![](https://img.shields.io/github/stars/KrishnanSG/holt-winters?style=flat-square&label=%E2%98%85&color=6D5CF0&labelColor=2b2f36) | — |
+| **[Pytsal](https://github.com/KrishnanSG/pytsal)** | Low-code framework for time-series analysis, forecasting & AutoTS | ![](https://img.shields.io/github/stars/KrishnanSG/pytsal?style=flat-square&label=%E2%98%85&color=6D5CF0&labelColor=2b2f36) | ![](https://img.shields.io/pepy/dt/pytsal?style=flat-square&label=%E2%86%93&color=2EB8F2&labelColor=2b2f36) |
+| **[Nutshell](https://github.com/KrishnanSG/Nutshell)** | Unsupervised text summarization & retrieval, powered by NLP | ![](https://img.shields.io/github/stars/KrishnanSG/Nutshell?style=flat-square&label=%E2%98%85&color=6D5CF0&labelColor=2b2f36) | ![](https://img.shields.io/pepy/dt/pynutshell?style=flat-square&label=%E2%86%93&color=2EB8F2&labelColor=2b2f36) |
 
 ## Stack
 
