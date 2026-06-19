@@ -23,9 +23,11 @@ The bet I'm building on: **we're past software made only for humans.** The next 
 
 ## What I'm building
 
-- <img src="./assets/dg-icon.svg" height="15" align="center" /> &nbsp;**[DataGenie](https://datagenie.ai) — autonomous analytics.** It watches *all* your business data, catches what's breaking, and explains the root cause **before you knew to ask.** No dashboards to build, no alerts to babysit. The whole pitch in four words: ***Do Nothing. Know Everything.***
-- **Krono — an AI-native work tracker** where agents, not just people, open and drive the work. We build it, and we run on it.
-- **superlore — *open source, landing soon.*** An **agent-native knowledge base**: author once in MDX, and humans get a clean visual KB while agents get a first-class **MCP** over the same knowledge. Not docs with an MCP bolted on — MCP-native from line one. ⭐
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/building-cards-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/building-cards-light.png">
+  <img width="100%" alt="DataGenie — autonomous analytics that watches all your data, catches what's breaking, and explains the root cause before you knew to ask (Do Nothing. Know Everything.). Krono — an AI-native work tracker where agents, not just people, open and drive the work; internal, in production. superlore — an agent-native knowledge base: author once in MDX, humans get a clean visual KB, agents get a first-class MCP; open source, landing soon." src="./assets/building-cards-dark.png">
+</picture>
 
 ## What I believe
 
@@ -45,13 +47,13 @@ A few things I've shipped to the community over the years — still maintained, 
 | **[Pytsal](https://github.com/KrishnanSG/pytsal)** | Low-code framework for time-series analysis, forecasting & AutoTS | ★ 39 |
 | **[Nutshell](https://github.com/KrishnanSG/Nutshell)** | Unsupervised text summarization & retrieval, powered by NLP | ★ 15 |
 
-## Toolbox
+## Stack
 
-I keep this short on purpose — nobody's an expert in 40 logos.
-
-- **Ship** — TypeScript · Python · Next.js · React · FastAPI
-- **Think** *(AI & agents)* — Claude · MCP · PyTorch
-- **Run** — MongoDB · PostgreSQL · Redis · AWS · Docker
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.png">
+  <img width="100%" alt="Comfort zone — TypeScript, Python, Next.js, React, FastAPI, MongoDB, Postgres, Redis, Docker, Claude, MCP, PyTorch, AWS — but I don't live here: give me a new language, runtime, or paradigm and I'm in. The comfort zone is where I start, not where I stay." src="./assets/stack-dark.png">
+</picture>
 
 ## For the machines reading this
 
