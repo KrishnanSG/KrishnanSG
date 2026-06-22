@@ -31,11 +31,29 @@ Ex-Cloudwiry · based in **Bengaluru, India**. Off the clock: table tennis, swim
 
 ## What I'm building
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/building-cards-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/building-cards-light.png">
-  <img width="100%" alt="DataGenie — autonomous analytics that watches all your data, catches what's breaking, and explains the root cause before you knew to ask (Do Nothing. Know Everything.). Krono — an AI-native work tracker where agents, not just people, open and drive the work; internal, in production. superlore — an agent-native knowledge base: author once in MDX, humans get a clean visual KB, agents get a first-class MCP; open source, landing soon." src="./assets/building-cards-dark.png">
-</picture>
+<!-- Three cards at a fixed width: 3-across on desktop, and they wrap to one-per-row on mobile.
+     DataGenie → the pitch site; superlore → its repo; Krono is internal, so it's unlinked. -->
+<p align="center">
+  <a href="https://pitch.datagenie.ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/building-datagenie-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/building-datagenie-light.png">
+      <img width="270" alt="DataGenie — autonomous analytics: watches all your data, catches what's breaking, and explains the root cause before you knew to ask. Do Nothing. Know Everything." src="./assets/building-datagenie-dark.png">
+    </picture>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/building-krono-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/building-krono-light.png">
+    <img width="270" alt="Krono — an AI-native work tracker where agents, not just people, open, triage, and drive the work. Internal, in production." src="./assets/building-krono-dark.png">
+  </picture>
+  <a href="https://github.com/KrishnanSG/superlore">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/building-superlore-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/building-superlore-light.png">
+      <img width="270" alt="superlore — an agent-native knowledge base: author once in MDX; humans get a clean visual KB, agents get a first-class MCP. Open source, live." src="./assets/building-superlore-dark.png">
+    </picture>
+  </a>
+</p>
 
 ## What I believe
 
