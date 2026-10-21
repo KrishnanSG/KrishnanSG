@@ -17,7 +17,7 @@
 
 ---
 
-**Head of Engineering at [DataGenie](https://datagenie.ai)** — I own the company's **tech *and* product** end to end: set the vision, lead the teams, and still live in the codebase, because the best way to predict where software is going is to ship it there first.
+**CTO at [DataGenie](https://datagenie.ai)** — I own the company's **tech, product, customer success and strategy** end to end: set the vision, lead the teams, and still live in the codebase, because the best way to predict where software is going is to ship it there first.
 
 The bet I'm building on: **we're past software made only for humans.** The next decade is *agent-native* — products where a person and the AI agents working beside them are **both** first-class users. Most of my work is making that true a little earlier than the market expects.
 
